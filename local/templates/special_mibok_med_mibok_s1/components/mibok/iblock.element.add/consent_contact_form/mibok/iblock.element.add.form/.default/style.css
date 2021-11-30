@@ -1,0 +1,3 @@
+#iblock_consent{display: inline-block;width: 15px;height: 15px;margin-top:0;text-align: left;}
+label[for=iblock_consent]{display: inline-block !important;width: calc(100% - 27px);vertical-align: top;margin-left: 10px;text-align: left;}
+.mibok-consent-text{ white-space: pre-line;text-align: left;}

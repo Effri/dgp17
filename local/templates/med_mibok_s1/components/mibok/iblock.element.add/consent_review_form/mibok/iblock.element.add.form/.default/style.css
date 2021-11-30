@@ -1,0 +1,10 @@
+/*.mibok-consent-text{ white-space: pre-line;text-align: left;font-size: 13px;height: 270px;position: relative;}
+label[for=iblock_consent]{display: inline-block !important;width: calc(100% - 27px);vertical-align: top;margin-left: 10px;font-size: .8rem;font-weight: normal;text-align: left;}
+#iblock_consent{display: inline-block;width: 15px;height: 15px;margin-top:0;text-align: left;}
+label[for=iblock_consent]:hover{cursor: pointer; text-decoration: underline;}
+.btn-default.active, .btn-default:active, .btn-default:hover, .open>.dropdown-toggle.btn-default{color: #333;background-color: #efefef;border-color: #ccc;}
+#myModalConsent .modal-header, #myModalConsent .modal-body{text-align: left;}
+#myModalConsent .modal-content{padding-bottom: 0;}
+#myModalConsent  .modal-header{padding-bottom: 15px;}
+#myModalConsent  .modal-footer{padding-bottom: 20px;}
+form[name=iblock_add_contact] .form-group{padding-bottom: 0;}*/

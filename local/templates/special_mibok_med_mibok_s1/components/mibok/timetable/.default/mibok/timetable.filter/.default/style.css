@@ -1,0 +1,8 @@
+.inline-block {display: inline-block;vertical-align: middle;}
+.daterangepicker .calendar{max-width: 340px;}
+.daterangepicker .daterangepicker_input i, .daterangepicker .daterangepicker_input{display: none;}
+.input-group .form-control{margin: 0 5px;}
+@media (max-width: 564px)
+{
+    .daterangepicker {width: auto;}
+}

@@ -1,0 +1,50 @@
+main > table {
+    width: 100%;
+    overflow: auto;
+    height: 300px;
+}
+
+body, .c-title, #links-sidebar .ps-scrollbar-y-rail, .l-instructor-header, .timing-header {background-color: #ffffff;}
+
+.l-menu-logo-text{color:#484c55;}
+.l-menu-block .active a, a, .l-instructor-header, .l-teacher-right, .l-teacher-right, .timing-header-num, .timing-date, .timing-month, a:focus, a:hover, .l-document-header, .map-tel a, .c-header{color:#47abd3;}
+#menu-line, .slider-main-wrapper, .btn-blue, /*#links-sidebar .ps-scrollbar-y,*/ .tab-section .active a, .tab-section a:hover, .tag, .pagination-current span, .tab, .timing-active .timing-header-num, header.s-news-title:after, .l-instructor-header-block:after,.c-title-block.c-title-block-margin:after/*, .ps-container>.ps-scrollbar-y-rail>.ps-scrollbar-y, .ps-container:hover>.ps-scrollbar-y-rail:hover>.ps-scrollbar-y, .ps-container:hover.ps-in-scrolling.ps-y>.ps-scrollbar-y-rail>.ps-scrollbar-y*/ {background-color:#47abd3;}
+
+.tag:before{border-color:transparent #47abd3 transparent transparent}
+.photogallery-image-link:hover, .l-instructor-img-link:hover{background-color:#47abd3;opacity: 0.8;}
+polygon {fill: #47abd3 !important;}
+.l-contact-info li:before, .visible-eye:before,.slider-main .slider-main-btn:before{color:#68a2c6;}
+
+.slider-wrapper-text{background-color: rgba(71,171,211,0.8);}
+.wrapper-slider{background: #9dc9db;}
+span.swiper-pagination-bullet.swiper-pagination-bullet-active:before, .btn-blue:hover{background: #6ba5ca;}
+
+.l-header,.l-footer {background: #25536f;}
+.l-menu-block li a, .map,.l-document-text,.l-document-name,.l-instructor-text,.tab-dropdown li a, .l-document-size {color: #484c55;}
+
+body, legend, pre, kbd, .btn.focus,.btn:focus,.btn:hover, .btn-default , .btn-default.focus,.btn-default:focus, .btn-default.active,.btn-default:active,.btn-default:hover,.open>.dropdown-toggle.btn-default, .btn-default.active.focus,.btn-default.active:focus,.btn-default.active:hover,.btn-default:active.focus,.btn-default:active:focus,.btn-default:active:hover,.open>.dropdown-toggle.btn-default.focus,.open>.dropdown-toggle.btn-default:focus,.open>.dropdown-toggle.btn-default:hover, .dropdown-menu>li>a, .navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-link:hover , .navbar-default .btn-link:focus,.navbar-default .btn-link:hover, .thumbnail .caption, .panel-default>.panel-heading,.c-article p,.l-teacher-info,.s-news-title,.l-contact-header,.l-menu-logo,.l-contact-form label, .l-contact-info ul li, .slider-direction-title,.slider-direction-text,.s-links a>span{color: #333333;}
+.btn-default .badge, .panel-default>.panel-heading .badge {background-color: #333333;}
+.navbar-inverse .navbar-toggle, .navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover {border-color: #333333;}
+
+
+@media (max-width:767px)
+{
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover, .navbar-default .navbar-link:hover, .navbar-default .btn-link:focus,.navbar-default .btn-link:hover {color: #333333;}
+}
+
+.l-header-info, .btn-blue, .btn:hover,.l-footer-title,.f-footer-block-sml, .f-footer-block-sml a,.l-footer-block a, .slider-main-title,.slider-main-title-min, .slider-main-text, .icon-font, .tab-section .active a,.tab-section a:hover, .l-footer .wrapper-social a:before {color: #ffffff;}
+.slider-new .slider-main-title, .slider-new .slider-main-title-min {color:#47abd3;}
+.slider-new .slider-main-text {color:#25536f;}
+.slider-new .slider-main-pagination>span {background: #6ba5ca;}
+.slider-new  span.swiper-pagination-bullet.swiper-pagination-bullet-active:before {background: #fff;}
+.slider-main .slider-main-btn, .visible-eye{background-color:#ffffff;}
+
+.tab-section a, .slider-direction-wrapper, .l-contact-info{background-color:#f0f3f8;}
+.c-article td {
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding: 0 10px;
+    vertical-align: middle;
+    text-align: center;
+}

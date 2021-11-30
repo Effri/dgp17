@@ -1,0 +1,5 @@
+button[data-dismiss="modal"]{display:none;}
+.element-item{border-bottom: none !important;}
+.mibok-success{font-weight: bold;}
+.count-rasp, .no-item-record{font-weight: bold;}
+.glyphicon-ban-circle:before{vertical-align: text-bottom;}

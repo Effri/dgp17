@@ -1,0 +1,100 @@
+@font-face {font-family: 'icomoon';src:    url('fonts/icomoon.eot?gmph5x');src:    url('fonts/icomoon.eot?gmph5x#iefix') format('embedded-opentype'),url('fonts/icomoon.ttf?gmph5x') format('truetype'),url('fonts/icomoon.woff?gmph5x') format('woff'),url('fonts/icomoon.svg?gmph5x#icomoon') format('svg');font-weight: normal;font-style: normal;}
+
+[class^="icon-"], [class*=" icon-"], .l-header-info-time::before,.l-header-info-tel::before, .l-document-list a::before, .l-contact-info li::before, .slider-main-btn::before, .l-footer-block a:before, .visible-eye:before, .tab.tab-select:after {font-family: 'icomoon' !important;speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+
+.icon-badminton:before {content: "\e900";}
+.icon-basketball:before {content: "\e901";}
+.icon-run_hurdles:before {content: "\e902";}
+.icon-run:before {content: "\e903";}
+.icon-baseball:before {content: "\e904";}
+.icon-billiards:before {content: "\e905";}
+.icon-ring:before {content: "\e906";}
+.icon-bowling:before {content: "\e907";}
+.icon-bars:before {content: "\e908";}
+.icon-bike:before {content: "\e909";}
+.icon-exercise_bike:before {content: "\e90a";}
+.icon-water_polo:before {content: "\e90b";}
+.icon-water_volleyball:before {content: "\e90c";}
+.icon-volleyball:before {content: "\e90d";}
+.icon-handball:before {content: "\e90e";}
+.icon-gymnastics:before {content: "\e90f";}
+.icon-gymnastics_rings:before {content: "\e910";}
+.icon-rowing:before {content: "\e911";}
+.icon-judo:before {content: "\e912";}
+.icon-yoga:before {content: "\e913";}
+.icon-karate:before {content: "\e914";}
+.icon-horseback:before {content: "\e915";}
+.icon-massage:before {content: "\e916";}
+.icon-javelin_throwing:before {content: "\e917";}
+.icon-ping_pong:before {content: "\e918";}
+.icon-pilates:before {content: "\e919";}
+.icon-swimming:before {content: "\e91a";}
+.icon-diving:before {content: "\e91b";}
+.icon-high_jump:before {content: "\e91c";}
+.icon-long_jump:before {content: "\e91d";}
+.icon-rugby:before {content: "\e91e";}
+.icon-sauna:before {content: "\e91f";}
+.icon-strength_training:before {content: "\e920";}
+.icon-spa:before {content: "\e921";}
+.icon-archery:before {content: "\e922";}
+.icon-shooting:before {content: "\e923";}
+.icon-stretching:before {content: "\e924";}
+.icon-dancing:before {content: "\e925";}
+.icon-tennis:before {content: "\e926";}
+.icon-shot_put:before {content: "\e927";}
+.icon-gym:before {content: "\e928";}
+.icon-taekwondo:before {content: "\e929";}
+.icon-weightlifting:before {content: "\e92a";}
+.icon-horse_hand:before {content: "\e92b";}
+.icon-fencing:before {content: "\e92c";}
+.icon-football:before {content: "\e92d";}
+.icon-hockey:before {content: "\e92e";}
+.icon-chess:before {content: "\e92f";}
+.icon-upper_body:before {content: "\e930";}
+
+.icon-social-ok:before {content: "\e931";}
+.icon-social-tw:before {content: "\e932";}
+.icon-social-yt:before {content: "\e933";}
+.icon-social-vk:before {content: "\e934";}
+.icon-social-inst:before {content: "\e935";}
+.icon-social-gplus:before {content: "\e936";}
+.icon-social-fb:before {content: "\e937";}
+.icon-left-chevron:before {content: "\e938";}
+.icon-right-chevron:before, .l-footer-block a:before{content: "\e939";}
+.icon-left-chevron_one:before, .slider-main-prev:before  {content: "\e93a";}
+.icon-right-chevron_one:before, .slider-main-next:before {content: "\e93b";}
+.icon-left-chevron_round:before {content: "\e93c";}
+.icon-right-chevron_round:before {content: "\e93d";}
+.icon-up-chevron_round:before {content: "\e93e";}
+.icon-down-chevron_round:before, .tab.tab-select:after {content: "\e93f";}
+.icon-clock:before,.l-header-info-time::before  {content: "\e940";}
+.icon-dark-eye:before,.visible-eye:before {content: "\e941";}
+.icon-download:before, .l-document-list a::before {content: "\e942";}
+.icon-map-placeholder:before {content: "\e943";}
+.icon-handphone:before,.l-header-info-tel::before {content: "\e944";}
+.icon-phone:before {content: "\e945";}
+.icon-mobile-phone:before {content: "\e946";}
+.icon-email:before {content: "\e947";}
+
+.icon-sports-balls:before {content: "\e948";}
+.icon-group:before {content: "\e949";}
+.icon-user1:before {content: "\e94a";}
+.icon-user:before {content: "\e94b";}
+.icon-class-reward:before {content: "\e94c";}
+.icon-down-chevron:before {content: "\e94d";}
+.icon-up-chevron:before {content: "\e94e";}
+
+/*2.2.0*/
+
+.l-header-info-email::before {content: "\e947";}
+.icon-search:before {content: "\e94f";}
+.icon-social-vk-color:before {content: "\e950";color: #4d739b;}
+.icon-social-tw-color:before {content: "\e951";color: #00a5eb;}
+.icon-social-fb-color:before {content: "\e952";color: #365596;}
+.icon-social-ok-color:before {content: "\e953";color: #f6851f;}
+.icon-social-yt-color:before {content: "\e954";color: #d63023;}
+.icon-social-inst-color:before {content: "\e955";color: #507ea3;}
+.icon-social-gplus-color:before {content: "\e956";color: #d8502f;}
+
+/*2.5.0*/
+.icon-star:before {content: "\e957";}

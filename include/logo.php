@@ -1,0 +1,1 @@
+<img width="90" alt="Логотип компании" src="<?=SITE_DIR?>include/img/logo.png" height="67" title="Логотип компании" align="left">
